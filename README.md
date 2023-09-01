@@ -3,15 +3,9 @@ create a customized QR code in Python with qrcode, pillow and pyqrcode.
 
 
 <div align="center">
-
-
-![Alt text](colored.png)       ![Alt text](default.png)
-
-
-![Alt text](round.png)         ![Alt text](embeded.png)
-
-
-![Alt text](git.png)
-
+  <img src="colored.png" alt="Colored Image" width="200"/>
+  <img src="default.png" alt="Default Image" width="200"/>
+  <img src="round.png" alt="Round Image" width="200"/>
+  <img src="embeded.png" alt="Embedded Image" width="200"/>
+  <img src="git.png" alt="Git Image" width="200"/>
 </div>
-
